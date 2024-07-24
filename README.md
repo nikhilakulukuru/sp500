@@ -19,4 +19,5 @@ This project is an attempt to empirically investigate the effect of (1) Lagged R
 ### REFERENCES
 
 [1] Cornell, B. (2014). Dividend-price ratios and stock returns: international evidence. The Journal of Portfolio Management, 40(2), 122–127. https://doi.org/10.3905/jpm.2014.40.2.122
+
 [2] Cutler, David M., et al. “Speculative Dynamics.” The Review of Economic Studies, vol. 58, no. 3, 1991, pp. 529–46. JSTOR, https://doi.org/10.2307/2298010. Accessed 11 Oct. 2022.
